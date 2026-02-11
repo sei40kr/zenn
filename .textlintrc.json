@@ -1,6 +1,10 @@
 {
   "rules": {
-    "preset-ja-technical-writing": true,
+    "preset-ja-technical-writing": {
+      "no-mix-dearu-desumasu": {
+        "preferInBody": "である"
+      }
+    },
     "preset-ja-spacing": true
   }
 }
