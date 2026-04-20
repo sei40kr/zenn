@@ -103,13 +103,13 @@ workmux open login-flow
 
 ```bash
 alias wm='workmux'
-alias wmap='workmux add -Ap'
+alias wmaap='workmux add -Ap'
 ```
 
-`wmap` を定義しておけば、プロンプト1本で「ブランチ切り+worktree作成+エージェント起動」が起動する。
+`wmaap` を定義しておけば、プロンプト1本で「ブランチ切り+worktree作成+エージェント起動」が起動する。
 
 ```bash
-wmap "Implement login flow with OAuth"
+wmaap "Implement login flow with OAuth"
 # -> workmux add -A -p "Implement login flow with OAuth"
 ```
 
