@@ -1,5 +1,5 @@
 ---
-title: "並列AIコーディングのための tmux + workmux + sidekick.nvim 構成"
+title: "Claude Code × 3並列を回すターミナル環境 ― tmux + workmux + sidekick.nvim"
 emoji: "🤖"
 type: "tech"
 topics: ["tmux", "neovim", "ai", "claudecode", "workmux"]
